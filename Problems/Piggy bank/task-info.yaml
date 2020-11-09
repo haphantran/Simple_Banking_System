@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    class PiggyBank:
+        # create __init__ and add_money methods
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6987#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6987#comment">JetBrains
+    Academy</a></html>
+  time: Fri, 06 Nov 2020 17:26:17 UTC
+record: -1
